@@ -1,2 +1,2 @@
-# This is README.md file
-# It contains descriptions about the project`
+# The Project will use MAVEN
+# It will contain some Java code
